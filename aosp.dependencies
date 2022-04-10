@@ -1,0 +1,17 @@
+[  
+   {
+      "repository": "hardware_xiaomi",
+      "target_path": "hardware/xiaomi",
+      "remote": "pixel"
+   },
+   {  
+      "repository"   : "kernel_xiaomi_laurel_sprout",
+      "target_path"  : "kernel/xiaomi/laurel_sprout",
+      "remote"       : "pixel-devices"
+   },
+   {  
+      "repository"   : "vendor_xiaomi_laurel_sprout",
+      "target_path"  : "vendor/xiaomi/laurel_sprout",
+      "remote": "pixel-devices-blobs"
+   }
+]
